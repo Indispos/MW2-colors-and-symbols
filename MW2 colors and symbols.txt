@@ -77,3 +77,7 @@ Colors:
 ߽ - Stealth Bomber
 ߾ - VTOL Jet
 ߿ - Wheelson
+
+
+^I - Glitched
+^? - Glitched
