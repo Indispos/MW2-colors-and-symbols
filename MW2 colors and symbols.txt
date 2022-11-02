@@ -1,0 +1,79 @@
+Colors:
+^1 - Red
+^2 - Green
+^3 - Yellow
+^4 - Blue
+^5 - Cyan
+^6 - Pink
+^7 - White
+^8 - Cyan
+^9 - Red
+^0 - Black
+^% - Light Green
+^& - Yellow
+^* - Purple
+^( - Light Green
+^) - Light Blue
+^- - Baby Blue
+^+ - Orange
+^. - Very Light Green
+^, - Burnt Orange
+^' - Gray
+^; - Navy Blue
+^: - Green
+
+{x} - X key (Works with any keyboard letter and number key)
+
+߇ - Left Stick
+߈ - Right Stick
+߉ - Left Stick
+ߊ - Right Stick
+ߋ - Left Stick
+ߌ - Right Stick
+ߍ - Vault Arrow
+ߎ - Dpad
+ߏ - Plus
+ߐ - Minus
+
+ߑ - White Caution
+ߒ - Two Arrows
+ߓ - Two Arrows
+ߔ - Lock
+ߕ - Skull
+ߖ - Cod Point
+ߚ - Up Arrow
+ߛ - Down Arrow
+ߜ - Left Arrow
+ߝ - Right Arrow
+ߞ - Mouse 1
+ߟ - Mouse 2
+ߠ - Mouse 3
+ߡ - Mouse 4
+ߢ - Mouse 5
+ߣ - Mouse Wheel Down
+ߤ - Mouse Wheel Up
+ߥ - Mouse
+ߦ - Activated Mic
+ߧ - Ammo
+ߨ - Orange Caution
+ߩ - Crosshair
+ߪ - Skull w/ Lightning
+߫ - Unlock Icon
+߬ - Square w/ X
+߭ - Square
+߮ - Arrow Circle
+߯ - Noob Tube
+߰ - Underbarrel Shotgun
+߱ - Scroll Wheel
+߲ - Right Mouse w/ Arrows
+߳ - MW2 Key
+ߴ - Hitmarker
+ߵ - Party Icon
+߶ - Gunsmith Icon
+߷ - Green Checkmark
+߸ - Yellow Arrow Circle
+߹ - Yellow Paper
+ߺ - Red Caution
+߽ - Stealth Bomber
+߾ - VTOL Jet
+߿ - Wheelson
