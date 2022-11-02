@@ -1,1 +1,0 @@
-# MW2-colors-and-symbols
